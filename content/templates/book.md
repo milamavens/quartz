@@ -1,20 +1,12 @@
 ---
-date:
-  "{ date:YYYY-MM-DD }": 
-aliases: []
+date: 
+title: 
+aliases: 
 author: 
 published: 
 tags:
-  - source
   - book
-draft: true
+draft: 
 ---
-# About this book
 
-*Who’s the author?*
-
-*What’s the larger context of this book?*
-
-# Notes
-
-*Start writing…*
+*Start writing...*

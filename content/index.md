@@ -4,7 +4,7 @@ title: Stay a while.
 
 Hello! Call me **Mila**. I’m a [[neurodiversity]] advocate, consultant, and success coordinator. Welcome to my *digital garden*.
  
-This place is a [[environment|sanctuary]] for cultivating my thoughts, interests and ideas [[publicity|in public]]. Currently, I’m learning about disability rights, [[psychology]], [[philosophy]], and anything else my mind wonders about.
+This place is a [[environment|sanctuary]] for cultivating my thoughts, interests and ideas [[publicity|in public]]. Currently, I’m learning about [[autism]] history, [[psychology]], [[feminism]], and anything else my mind wonders about.
 
 Please, have a look around.
 
@@ -26,5 +26,6 @@ Wander through my notes based on their content:
 
 …or view a list of all my notes [here](/notes/index).
 
-> [!info] Tip: Use the Global Graph
-> Try using the Global Graph to see my whole digital garden visually. To open it, click on the top-right corner of the graph view.
+### Additional links
+
+- 📚 [[reading list|Reading List]]: Pieces of writing I’m currently reading and have read  in the past.
