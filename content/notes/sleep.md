@@ -1,8 +1,9 @@
 ---
 title: Sleep
-aliases: ["Sleep"]
+aliases:
+  - Sleep
 date: 2023-08-23
-draft:
+draft: false
 tags:
   - seed
   - stem

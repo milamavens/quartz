@@ -1,8 +1,10 @@
 ---
 title: Publicity
-aliases: ["Publicity", "Visibility"]
+aliases:
+  - Publicity
+  - Visibility
 date: 2023-08-24
-draft:
+draft: false
 tags:
   - seed
   - stem

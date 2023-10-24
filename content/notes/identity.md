@@ -1,8 +1,9 @@
 ---
 title: Identity
-aliases: ["Identity"]
+aliases:
+  - Identity
 date: 2023-08-26
-draft:
+draft: false
 tags:
   - seed
   - stem

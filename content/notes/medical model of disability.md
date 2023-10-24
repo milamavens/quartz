@@ -1,8 +1,9 @@
 ---
 title: Medical model of disability
-aliases: ["Medical model of disability"]
+aliases:
+  - Medical model of disability
 date: 2023-08-24
-draft:
+draft: false
 tags:
   - seed
   - stem

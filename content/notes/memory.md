@@ -1,8 +1,9 @@
 ---
 title: Memory
-aliases: ["Memory"]
+aliases:
+  - Memory
 date: 2023-08-23
-draft:
+draft: false
 tags:
   - seed
   - stem

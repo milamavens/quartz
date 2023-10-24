@@ -1,8 +1,9 @@
 ---
 title: Feminism
-aliases: ["Feminism"]
+aliases:
+  - Feminism
 date: 2023-08-26
-draft:
+draft: false
 tags:
   - seed
   - stem

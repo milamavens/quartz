@@ -1,12 +1,15 @@
 ---
 title: Acceptance and autism
-aliases: ["Acceptance and autism"]
+aliases:
+  - Acceptance and autism
 date: 2023-08-31
-draft:
+draft: false
 tags:
   - seed
   - branch
 ---
+
+[[acceptance|💞 Acceptance]], [[autism|🧠 Autism]]
 
 # Accepting our own autism
 
@@ -25,9 +28,9 @@ Accepting that you’re autistic is much easier with a formal diagnosis:
 
 # Autism awareness vs. acceptance
 
-Advocating for “[[autism]] awareness” merely [[publicity|draws attention to]] autism *itself* while overlooking the systemic [[oppression]] and [[socialization|social]] outcasting faced by autistic *people*. 
+Advocating for “autism awareness” merely [[publicity|draws attention to]] autism *itself* while overlooking the systemic [[oppression]] and [[socialization|social]] outcasting faced by autistic *people*. 
 
-We prefer advocating for “autism [[acceptance]].” The slight adjustment in [[language]] acknowledges our existence, the challenges we face, and our humanity while also pushing for the formation of a society that accommodates us.
+We prefer advocating for “autism acceptance.” The slight adjustment in [[language]] acknowledges our existence, the challenges we face, and our humanity while also pushing for the formation of a society that accommodates us.
 
 > [!help] Further thoughts
 > Is *awareness* neutral? Can *attention* be neutral?

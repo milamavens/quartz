@@ -1,13 +1,16 @@
 ---
 title: Lucid dreaming
-aliases: ["Lucid dreaming"]
+aliases:
+  - Lucid dreaming
 date: 2023-08-23
-draft:
+draft: false
 tags:
   - seed
   - stem
 ---
 
-**Lucid dreaming** occurs when someone is aware that they’re [[dreams|dreaming]] while in a dream.
+[[sleep|💤 Sleep]], [[dreams|💭 Dreams]]
 
-**Related:** [[sleep|Sleep]], [[control|Control]]
+**Lucid dreaming** occurs when someone is aware that they’re dreaming while in a dream.
+
+**Related:** [[control|Control]]

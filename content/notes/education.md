@@ -1,8 +1,9 @@
 ---
 title: Education
-aliases: ["Education"]
+aliases:
+  - Education
 date: 2023-08-23
-draft:
+draft: false
 tags:
   - seed
   - stem

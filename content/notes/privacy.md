@@ -1,8 +1,9 @@
 ---
 title: Privacy
-aliases: ["Privacy"]
+aliases:
+  - Privacy
 date: 2023-08-26
-draft:
+draft: false
 tags:
   - seed
   - stem

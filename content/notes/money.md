@@ -1,8 +1,9 @@
 ---
 title: Money
-aliases: ["Money"]
+aliases:
+  - Money
 date: 2023-08-23
-draft:
+draft: false
 tags:
   - seed
   - stem

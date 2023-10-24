@@ -1,8 +1,9 @@
 ---
 title: Gender
-aliases: ["Gender"]
+aliases:
+  - Gender
 date: 2023-08-26
-draft:
+draft: false
 tags:
   - seed
   - stem

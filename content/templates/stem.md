@@ -1,12 +1,11 @@
 ---
 title: 
 aliases: 
-date:
-  "{ date }": 
+date: {{date:YYYY-MM-DD}}
 draft: false
 tags:
-  - branch
   - seed
+  - stem
 ---
 
 *Start writing…*

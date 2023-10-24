@@ -1,6 +1,7 @@
 ---
 title: Friendship
-aliases: ["Friendship"]
+aliases:
+  - Friendship
 date: 2023-08-23
 draft: true
 tags:

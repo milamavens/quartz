@@ -1,8 +1,9 @@
 ---
 title: Control
-aliases: ["Control"]
+aliases:
+  - Control
 date: 2023-09-02
-draft:
+draft: false
 tags:
   - seed
   - stem

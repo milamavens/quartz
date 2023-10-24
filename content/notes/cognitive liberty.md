@@ -1,8 +1,9 @@
 ---
 title: Cognitive liberty
-aliases: ["Cognitive liberty"]
+aliases:
+  - Cognitive liberty
 date: 2023-08-26
-draft:
+draft: false
 tags:
   - seed
   - stem

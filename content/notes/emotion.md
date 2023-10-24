@@ -1,8 +1,9 @@
 ---
 title: Emotion
-aliases: ["Emotion"]
+aliases:
+  - Emotion
 date: 2023-09-19
-draft:
+draft: false
 tags:
   - seed
   - stem

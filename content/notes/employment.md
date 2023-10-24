@@ -1,8 +1,9 @@
 ---
 title: Employment
-aliases: ["Employment"]
+aliases:
+  - Employment
 date: 2023-08-23
-draft:
+draft: false
 tags:
   - seed
   - stem

@@ -1,14 +1,17 @@
 ---
 title: Autism and neurodiversity
-aliases: ["Autism and neurodiversity"]
+aliases:
+  - Autism and neurodiversity
 date: 2023-09-25
-draft:
+draft: false
 tags:
   - seed
   - branch
 ---
 
-The [[neurodiversity]] movement recognizes [[autism]] as a form of neurodivergence. 
+[[autism|🧠 Autism]], [[neurodiversity|♾️ Neurodiversity]]
+
+The neurodiversity movement recognizes autism as a form of neurodivergence. 
 
 # The shift towards neurodiversity
 

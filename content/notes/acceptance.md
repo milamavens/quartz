@@ -1,8 +1,9 @@
 ---
 title: Acceptance
-aliases: ["Acceptance"]
+aliases:
+  - Acceptance
 date: 2023-08-31
-draft:
+draft: false
 tags:
   - seed
   - stem

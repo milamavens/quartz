@@ -1,12 +1,15 @@
 ---
 title: Behavior
-aliases: ["Behavior"]
+aliases:
+  - Behavior
 date: 2023-08-23
-draft:
+draft: false
 tags:
   - seed
   - stem
 ---
+
+[[psychology|👤 Psychology
 
 The **behavior** of something or someone is an [[publicity|observable]] or [[privacy|private]] reaction that occurs [[causality|in response]] to something. Can be a form of [[communication]].
 

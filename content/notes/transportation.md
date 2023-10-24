@@ -1,8 +1,9 @@
 ---
 title: Transportation
-aliases: ["Transportation"]
+aliases:
+  - Transportation
 date: 2023-08-23
-draft:
+draft: false
 tags:
   - seed
   - stem

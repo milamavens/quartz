@@ -1,8 +1,9 @@
 ---
 title: History
-aliases: ["History"]
+aliases:
+  - History
 date: 2023-09-19
-draft:
+draft: false
 tags:
   - seed
   - stem

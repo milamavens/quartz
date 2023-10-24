@@ -3,7 +3,7 @@ title: Home
 aliases:
   - Home
 date: 2023-08-23
-draft:
+draft: false
 tags:
   - seed
   - stem

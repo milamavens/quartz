@@ -1,8 +1,9 @@
 ---
 title: Pathologization
-aliases: ["Pathologization"]
+aliases:
+  - Pathologization
 date: 2023-09-02
-draft:
+draft: false
 tags:
   - seed
   - stem

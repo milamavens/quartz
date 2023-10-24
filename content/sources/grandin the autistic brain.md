@@ -18,7 +18,7 @@ A book written by Temple Grandin. Published in 2013.
 
 The earliest “expert” on autism was a man named *Leo Kanner*. Kanner’s earliest work focused on children who showed symptoms of “childhood schizophrenia,” yet also showed peculiar interests and an insistence on sameness. Kanner attributed the cause of autistic behavior to psychological forces inflicted in childhood, which only became more widespread upon the popularization of the [[refrigerator mother]] concept. 
 
-*(See: [[autism and acceptance]])*
+*(See: [[acceptance and autism|Acceptance and autism]])*
 
 Around the same time as Kanner conducted his research, a German scientist named *Hans Asperger* was researching children with “savant” talents. A new understanding of autism emerged when news of *Asperger’s syndrome*, which was regarded as a “milder” form of autism, arrived in America.
 

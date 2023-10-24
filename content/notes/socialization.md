@@ -1,8 +1,9 @@
 ---
 title: Socialization
-aliases: ["Socialization"]
+aliases:
+  - Socialization
 date: 2023-08-24
-draft:
+draft: false
 tags:
   - seed
   - stem

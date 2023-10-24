@@ -1,8 +1,9 @@
 ---
 title: Sensation
-aliases: ["Sensation"]
+aliases:
+  - Sensation
 date: 2023-08-24
-draft:
+draft: false
 tags:
   - seed
   - stem

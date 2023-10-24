@@ -1,12 +1,15 @@
 ---
 title: Learning
-aliases: ["Learning"]
+aliases:
+  - Learning
 date: 2023-08-23
-draft:
+draft: false
 tags:
   - seed
   - stem
 ---
+
+[[education|🏫 Education]]
 
 **Learning** is the process of acquiring, applying, and maintaining knowledge and skills.
 

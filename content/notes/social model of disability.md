@@ -1,8 +1,9 @@
 ---
 title: Social model of disability
-aliases: ["Social model of disability"]
+aliases:
+  - Social model of disability
 date: 2023-08-24
-draft:
+draft: false
 tags:
   - seed
   - stem
