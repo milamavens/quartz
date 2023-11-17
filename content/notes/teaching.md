@@ -9,6 +9,6 @@ tags:
   - stem
 ---
 
-[[education|🏫 Education]]
-
 **Teaching** is the [[communication]] of information for the purpose of facilitating [[learning]].
+
+**Related:** [[education|Education]]

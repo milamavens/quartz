@@ -9,11 +9,9 @@ tags:
   - stem
 ---
 
-[[neurodiversity|♾️ Neurodiversity]]
-
 **Autism** is a neurodevelopmental disorder that involves differences in neurological connectivity and [[sensation|sensory]] processing. Many autistic people regard these differences as the unifying characteristics of autistics across the entire spectrum.
 
-**Related:** [[overstimulation|Overstimulation]], [[socialization|Socialization]]
+**Related:** [[overstimulation|Overstimulation]], [[neurodiversity|Neurodiversity]], [[socialization|Socialization]]
 
 # Branches
 

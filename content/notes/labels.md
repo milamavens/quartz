@@ -9,8 +9,6 @@ tags:
   - stem
 ---
 
-[[language|📜 Language]]
-
 A **label** is a shorthand term for [[communication|communicating]] information about something or someone in a concise way. 
 
-**Related:** [[identity|Identity]]
+**Related:** [[identity|Identity]], [[language|Language]]

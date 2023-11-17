@@ -11,4 +11,4 @@ tags:
 
 **Overstimulation** is a state of overwhelm that occurs when exposed to too much [[sensation|sensory]] input. Experienced by a lot of [[autism|autistic]] people.
 
-**Related:** [[socialization|Socialization]]
+**Related:** [[socialization|Socialization]], [[pain|Pain]]

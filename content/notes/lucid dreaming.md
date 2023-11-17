@@ -9,8 +9,6 @@ tags:
   - stem
 ---
 
-[[sleep|💤 Sleep]], [[dreams|💭 Dreams]]
-
 **Lucid dreaming** occurs when someone is aware that they’re dreaming while in a dream.
 
-**Related:** [[control|Control]]
+**Related:** [[control|Control]], [[sleep|Sleep]], [[dreams|Dreams]]

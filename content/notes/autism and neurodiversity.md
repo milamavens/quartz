@@ -9,7 +9,7 @@ tags:
   - branch
 ---
 
-[[autism|🧠 Autism]], [[neurodiversity|♾️ Neurodiversity]]
+[[autism|Autism]], [[neurodiversity|Neurodiversity]]
 
 The neurodiversity movement recognizes autism as a form of neurodivergence. 
 

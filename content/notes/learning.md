@@ -9,8 +9,6 @@ tags:
   - stem
 ---
 
-[[education|🏫 Education]]
-
 **Learning** is the process of acquiring, applying, and maintaining knowledge and skills.
 
-**Related:** [[teaching|Teaching]], [[memory|Memory]]
+**Related:** [[education|Education]], [[teaching|Teaching]], [[memory|Memory]]

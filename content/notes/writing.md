@@ -9,7 +9,6 @@ tags:
   - stem
 ---
 
-[[language|📜 Language]]
-
 **Writing** is a form of [[communication]].
 
+**Related:** [[language|Language]]

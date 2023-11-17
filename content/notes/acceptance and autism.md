@@ -9,7 +9,7 @@ tags:
   - branch
 ---
 
-[[acceptance|💞 Acceptance]], [[autism|🧠 Autism]]
+[[acceptance|Acceptance]], [[autism|Autism]]
 
 # Accepting our own autism
 

@@ -8,8 +8,6 @@ tags:
   - stem
 ---
 
-[[perception|🔎 Perception]]
-
 **Patterns** are reliably repeating sequences.
 
-**Related:** [[time|Time]], [[meaning|Meaning]]
+**Related:** [[time|Time]], [[meaning|Meaning]], [[perception|Perception]]

@@ -4,7 +4,7 @@ title: Stay a while.
 
 Hello! Call me **Mila**. I’m a [[neurodiversity]] advocate, consultant, and success coordinator. Welcome to my *digital garden*.
  
-This place is a [[environment|sanctuary]] for cultivating my thoughts, interests and ideas [[publicity|in public]]. Currently, I’m learning about [[autism]] history, [[psychology]], [[feminism]], and anything else my mind wonders about.
+This place is a [[environment|sanctuary]] for cultivating my thoughts, interests, and ideas [[publicity|in public]]. Currently, I’m learning about [[autism]] history, [[psychology]], [[feminism]], and anything else my mind wonders about.
 
 Please, have a look around.
 
@@ -28,4 +28,4 @@ Wander through my notes based on their content:
 
 ## Additional links
 
-- 📚 [[reading list|Reading List]]: Pieces of writing I’m currently reading and have read  in the past.
+- 📚 [[reading list|Reading List]]: Pieces of writing I’m currently reading and have read in the past.
